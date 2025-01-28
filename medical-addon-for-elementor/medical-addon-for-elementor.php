@@ -5,7 +5,7 @@ Plugin URI: https://nicheaddons.com/demos/medical
 Description: Medical Addon for Elementor covers all the must-needed elements for creating a perfect Medical website using Elementor Page Builder. 35+ Unique & Basic Elementor widget covers all of the Medical elements. Including book an appointment using most popular Appointment plugins. And also like, Admissions, Appointment, Working Hours, Departments, Stats, Tools, Full Calendar, Hospitals, Resources, Pricing, and Benefits.
 Author: NicheAddons
 Author URI: https://nicheaddons.com/
-Version: 1.6.2
+Version: 1.6.3
 Text Domain: medical-addon-for-elementor
 */
 

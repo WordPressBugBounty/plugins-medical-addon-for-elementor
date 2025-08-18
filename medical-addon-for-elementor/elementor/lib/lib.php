@@ -72,7 +72,7 @@ if ( ! function_exists( 'namedical_insert_elementor' ) ) {
             return '';
         }
     }
-    add_shortcode('namedical_elementor_template', 'namedical_insert_elementor');
+    add_shortcode('namedical_elementor_template', 'Elementor\namedical_insert_elementor');
 }
 
 if ( !class_exists('NAMEP_Controls_Helper_Output') ){
